@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form Component Tests Renders Correctly 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <h2
+    className="label-wrapper"
+  >
+    <label
+      className="label__lg"
+      htmlFor="new-todo-input"
+    >
+      What needs to be done?
+    </label>
+  </h2>
+  <input
+    autoComplete="off"
+    className="input input__lg"
+    id="new-todo-input"
+    name="text"
+    onChange={[Function]}
+    type="text"
+    value=""
+  />
+  <button
+    className="btn btn__primary btn__lg"
+    type="submit"
+  >
+    Add
+  </button>
+</form>
+`;

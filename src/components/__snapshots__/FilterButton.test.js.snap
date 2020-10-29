@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FilterButton Component Tests Renders Correctly 1`] = `
+<button
+  className="btn toggle-btn"
+  onClick={[Function]}
+  type="button"
+>
+  <span
+    className="visually-hidden"
+  >
+    Show 
+  </span>
+  <span />
+  <span
+    className="visually-hidden"
+  >
+     tasks
+  </span>
+</button>
+`;
+
+exports[`Render Tests Snapshot Test 1`] = `
+<button
+  className="btn toggle-btn"
+  onClick={[Function]}
+  type="button"
+>
+  <span
+    className="visually-hidden"
+  >
+    Show 
+  </span>
+  <span />
+  <span
+    className="visually-hidden"
+  >
+     tasks
+  </span>
+</button>
+`;
+
+exports[`Snapshot Test Renders Correctly 1`] = `
+<button
+  className="btn toggle-btn"
+  onClick={[Function]}
+  type="button"
+>
+  <span
+    className="visually-hidden"
+  >
+    Show 
+  </span>
+  <span />
+  <span
+    className="visually-hidden"
+  >
+     tasks
+  </span>
+</button>
+`;

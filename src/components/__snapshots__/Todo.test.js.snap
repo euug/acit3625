@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Todo Component Tests Renders Correctly 1`] = `
+<li
+  className="todo"
+>
+  <div
+    className="stack-small"
+  >
+    <div
+      className="c-cb"
+    >
+      <input
+        onChange={[Function]}
+        type="checkbox"
+      />
+      <label
+        className="todo-label"
+      />
+    </div>
+    <div
+      className="btn-group"
+    >
+      <button
+        className="btn"
+        id="edit-button"
+        onClick={[Function]}
+        type="button"
+      >
+        Edit 
+        <span
+          className="visually-hidden"
+        />
+      </button>
+      <button
+        className="btn btn__danger"
+        onClick={[Function]}
+        type="button"
+      >
+        Delete 
+        <span
+          className="visually-hidden"
+        />
+      </button>
+    </div>
+  </div>
+</li>
+`;
